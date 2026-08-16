@@ -84,8 +84,8 @@ Before you start: **use a computer, not the GitHub phone app** — the mobile ap
 
 1. From the repository page, click the `Media` folder, then your panel's folder — `Panel-1` or `Panel-2`.
 2. Click **Add file**, then **Upload files**.
-3. **If your export is under 100 MB:** drag in the video itself, named `Panel1_YourName.mp4`.
-4. **If it is larger than that:** do not upload the video. Instead upload a plain text file named `Panel1_YourName_link.txt` containing a shareable link to it — Google Drive, or anything similar.
+3. **If your export is under 25 MB:** drag in the video itself, named `Panel1_YourName.mp4`. 25 MB is GitHub's hard limit for uploading through the browser — a larger file will simply be rejected.
+4. **If it is 25 MB or larger:** do not upload the video, it will not go through. Instead upload a plain text file named `Panel1_YourName_link.txt` containing a shareable link to it — Google Drive, or anything similar. Most animation exports will land here, so expect to use this route.
 5. **If you upload a link, turn view access on.** Set the link so that anyone with it can view. A link we cannot open counts as nothing submitted. Check it yourself in a private browser window before the deadline.
 6. Scroll down and click the green **Commit changes** button.
 

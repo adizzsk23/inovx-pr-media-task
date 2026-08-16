@@ -18,13 +18,13 @@ Assigned subject: **INOVX logo reveal animation**
 
 Media is an individual submission. Upload your own animation.
 
-If your export is under 100 MB, upload the video itself:
+If your export is under 25 MB, upload the video itself:
 
 ```
 Panel1_YourName.mp4
 ```
 
-If it is larger, upload a text file containing a shareable link instead, with view access turned on:
+25 MB is GitHub's limit for browser uploads. If your file is 25 MB or larger — most exports will be — upload a text file containing a shareable link instead, with view access turned on:
 
 ```
 Panel1_YourName_link.txt
